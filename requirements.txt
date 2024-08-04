@@ -1,0 +1,2 @@
+curl -LO https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1/gpt4all-installer-win64-v3.1.1.exe
+
