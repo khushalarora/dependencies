@@ -1,2 +1,5 @@
+Invoke-WebRequest -Uri "https://curl.se/windows/dl-7.88.0_2/curl-7.88.0-win64-mingw.zip" -OutFile "C:\curl.zip"
+
+
 curl -LO https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1/gpt4all-installer-win64-v3.1.1.exe
 
